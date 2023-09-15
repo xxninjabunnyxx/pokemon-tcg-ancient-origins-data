@@ -1,0 +1,100 @@
+---
+id: xy7-60
+name: Goodra
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '150'
+types:
+- Dragon
+evolvesFrom: Sliggoo
+attacks:
+- name: Liquid Blow
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: ''
+  text: This attack does 20 damage to 1 of your opponent's Pokémon for each Colorless
+    in its Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)
+- name: Shining Breath
+  cost:
+  - Water
+  - Fairy
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '110'
+  text: During your opponent's next turn, this Pokémon can't be affected by any Special
+    Conditions.
+weaknesses:
+- type: Fairy
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy7
+  name: Ancient Origins
+  series: XY
+  printedTotal: 98
+  total: 100
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: AOR
+  releaseDate: 2015/08/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy7/symbol.png
+    logo: https://images.pokemontcg.io/xy7/logo.png
+number: '60'
+artist: Saya Tsuruta
+rarity: Rare Holo
+flavorText: It attacks with retractable horns. It throws a punch that's the equivalent
+  of the force of a hundred pro boxers.
+nationalPokedexNumbers:
+- 706
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy7/60.png
+  large: https://images.pokemontcg.io/xy7/60_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy7-60
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 0.25
+      mid: 0.61
+      high: 4.95
+      market: 0.59
+      directLow: 0.97
+    reverseHolofoil:
+      low: 0.4
+      mid: 0.85
+      high: 2.09
+      market: 0.85
+      directLow: 0.79
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy7-60
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 1.31
+    lowPrice: 0.1
+    trendPrice: 1.28
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.49
+    reverseHoloLow: 0.9
+    reverseHoloTrend: 2.35
+    lowPriceExPlus: 0.25
+    avg1: 0.98
+    avg7: 1.4
+    avg30: 0.87
+    reverseHoloAvg1: 1.24
+    reverseHoloAvg7: 1.84
+    reverseHoloAvg30: 1.95

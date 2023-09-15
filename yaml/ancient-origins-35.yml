@@ -1,0 +1,102 @@
+---
+id: xy7-35
+name: Golurk
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '130'
+types:
+- Psychic
+evolvesFrom: Golett
+ancientTrait:
+  name: θ Stop
+  text: Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.
+abilities:
+- name: Double Type
+  text: As long as this Pokémon is in play, it is Psychic and Fighting type.
+  type: Ability
+attacks:
+- name: Superpower
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: 80+
+  text: You may do 40 more damage. If you do, this Pokémon does 20 damage to itself.
+weaknesses:
+- type: Darkness
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: xy7
+  name: Ancient Origins
+  series: XY
+  printedTotal: 98
+  total: 100
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: AOR
+  releaseDate: 2015/08/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy7/symbol.png
+    logo: https://images.pokemontcg.io/xy7/logo.png
+number: '35'
+artist: kawayoo
+rarity: Rare
+flavorText: It flies across the sky at Mach speeds. Removing the seal on its chest
+  makes its internal energy go out of control.
+nationalPokedexNumbers:
+- 623
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy7/35.png
+  large: https://images.pokemontcg.io/xy7/35_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy7-35
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.14
+      mid: 0.4
+      high: 2.83
+      market: 0.36
+      directLow: 0.1
+    reverseHolofoil:
+      low: 0.3
+      mid: 0.86
+      high: 4.88
+      market: 0.86
+      directLow: 0.75
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy7-35
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.53
+    lowPrice: 0.1
+    trendPrice: 0.45
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.45
+    reverseHoloTrend: 1.82
+    lowPriceExPlus: 0.2
+    avg1: 0.39
+    avg7: 0.44
+    avg30: 0.48
+    reverseHoloAvg1: 1.49
+    reverseHoloAvg7: 1.44
+    reverseHoloAvg30: 2.0

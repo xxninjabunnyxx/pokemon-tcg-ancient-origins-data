@@ -1,0 +1,101 @@
+---
+id: xy7-51
+name: Registeel
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '120'
+types:
+- Metal
+attacks:
+- name: Iron Head
+  cost:
+  - Metal
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30×
+  text: Flip a coin until you get tails. This attack does 30 damage times the number
+    of heads.
+- name: Forbidden Iron Hammer
+  cost:
+  - Metal
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '70'
+  text: If your opponent's Active Pokémon is a Pokémon-EX, discard an Energy attached
+    to that Pokémon.
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: xy7
+  name: Ancient Origins
+  series: XY
+  printedTotal: 98
+  total: 100
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: AOR
+  releaseDate: 2015/08/12
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy7/symbol.png
+    logo: https://images.pokemontcg.io/xy7/logo.png
+number: '51'
+artist: Kouki Saitou
+rarity: Rare
+flavorText: Its body is said to be harder than any kind of metal. A study has revealed
+  that its body is hollow.
+nationalPokedexNumbers:
+- 379
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy7/51.png
+  large: https://images.pokemontcg.io/xy7/51_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy7-51
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.14
+      mid: 0.29
+      high: 20.0
+      market: 0.26
+      directLow: 0.22
+    reverseHolofoil:
+      low: 0.25
+      mid: 0.54
+      high: 4.95
+      market: 0.56
+      directLow: 0.34
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy7-51
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.43
+    lowPrice: 0.02
+    trendPrice: 0.52
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.73
+    reverseHoloLow: 0.48
+    reverseHoloTrend: 1.33
+    lowPriceExPlus: 0.03
+    avg1: 0.99
+    avg7: 0.47
+    avg30: 0.33
+    reverseHoloAvg1: 0.73
+    reverseHoloAvg7: 0.9
+    reverseHoloAvg30: 1.1
